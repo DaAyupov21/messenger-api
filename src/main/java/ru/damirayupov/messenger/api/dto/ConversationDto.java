@@ -1,7 +1,9 @@
 package ru.damirayupov.messenger.api.dto;
 
+import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;
+import lombok.NoArgsConstructor;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 import ru.damirayupov.messenger.api.models.Conversation;
@@ -16,6 +18,8 @@ import static ru.damirayupov.messenger.api.dto.MessageDto.from;
 @Data
 @Builder
 @Component
+@AllArgsConstructor
+@NoArgsConstructor
 public class ConversationDto {
 
     @Autowired
