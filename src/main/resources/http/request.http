@@ -1,0 +1,8 @@
+POST http://localhost:8080/users/registrations
+Content-Type: application/json
+
+{
+  "username" : "chris.bosh",
+  "phoneNumber" : "85434214567",
+  "password" : "Hello123"
+}
