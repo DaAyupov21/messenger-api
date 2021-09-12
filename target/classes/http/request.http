@@ -1,0 +1,8 @@
+POST https://damir-messenger.us-east-2.elasticbeanstalk.com/users/registrations
+Content-Type: application/json
+
+{
+  "username" : "chris.bosh",
+  "phoneNumber" : "85434214567",
+  "password" : "Hello123"
+}

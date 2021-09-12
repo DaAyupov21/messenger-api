@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: ru.damirayupov.messenger.api.MessengerApiApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 32.811 s - in ru.damirayupov.messenger.api.MessengerApiApplicationTests

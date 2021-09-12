@@ -1,4 +1,4 @@
-POST http://localhost:8080/users/registrations
+POST https://damir-messenger.us-east-2.elasticbeanstalk.com/users/registrations
 Content-Type: application/json
 
 {
